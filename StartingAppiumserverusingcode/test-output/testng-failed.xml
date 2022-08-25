@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="ass2W11D4.StartingAppiumserverusingcode.Ass2W11D4">
+        <methods>
+          <include name="appiumStart"/>
+        </methods>
+      </class> <!-- ass2W11D4.StartingAppiumserverusingcode.Ass2W11D4 -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

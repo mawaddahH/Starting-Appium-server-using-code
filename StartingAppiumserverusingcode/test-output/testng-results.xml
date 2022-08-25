@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-25T02:38:46 AST" name="Default suite" finished-at="2022-08-25T02:39:47 AST" duration-ms="61086">
+    <groups>
+    </groups>
+    <test started-at="2022-08-25T02:38:46 AST" name="Default test" finished-at="2022-08-25T02:39:47 AST" duration-ms="61086">
+      <class name="ass2W11D4.StartingAppiumserverusingcode.Ass2W11D4">
+        <test-method signature="appiumStart()[pri:0, instance:ass2W11D4.StartingAppiumserverusingcode.Ass2W11D4@294425a7]" started-at="2022-08-25T02:38:46 AST" name="appiumStart" finished-at="2022-08-25T02:39:47 AST" duration-ms="61004" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appiumStart -->
+      </class> <!-- ass2W11D4.StartingAppiumserverusingcode.Ass2W11D4 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
